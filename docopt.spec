@@ -4,7 +4,7 @@
 #
 Name     : docopt
 Version  : 0.6.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
 Summary  : Command line arguments parser for C++11 and later
@@ -53,7 +53,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1546660514
+export SOURCE_DATE_EPOCH=1551109375
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
